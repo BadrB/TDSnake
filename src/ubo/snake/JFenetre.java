@@ -8,6 +8,10 @@ import java.awt.event.KeyEvent;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+// Cette classe se charge de l'affichage de la fenetre pincipale du jeu 
+// elle gere aussi les evenement lors de l'appui sur une touche du clavier 
+// tout ca en utilisant les classes des biblios graphiques et AWT et Swing
+
 public class JFenetre extends JFrame implements Constantes {
 
 	private ModeleDuJeu modele;
