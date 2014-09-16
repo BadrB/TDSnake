@@ -8,6 +8,8 @@ import java.awt.event.KeyEvent;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+// Commentaire de la classe JFenetre 
+
 public class JFenetre extends JFrame implements Constantes {
 
 	private ModeleDuJeu modele;
